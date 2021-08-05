@@ -1,0 +1,5 @@
+Name,Open
+youtube,"apps/youtube.py"
+twitter,"apps/twitter.py"
+instagram,"apps/instagram.py"
+github,"apps/github.py"
