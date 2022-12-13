@@ -10,7 +10,7 @@ The apps are written using **PyQt5** , it will not store login and session detia
 ### Usage
 
 - **Clone** the repo locally using
-  -  `git clone https://github.com/arasan-ai/ARASAN-AI`
+  -  `git clone https://github.com/agilarasu/ARASAN-AI`
 
 - Install **requirements** with the following commands
   - `pip install -r requirements.txt`
