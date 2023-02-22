@@ -1,3 +1,8 @@
+Arasan AI, the old Github repository that utilized basic if-else programming structure for its artificial intelligence algorithms, has been renamed to Grey. The creator of Grey has made the decision to deprecate the old Arasan AI repository and switch to a new one that utilizes neural networks. This change reflects the creator's commitment to keeping up with the latest advancements in artificial intelligence and machine learning.
+
+The new Grey repository is built on top of neural networks, which are a powerful machine learning algorithm that can learn and adapt to data, making them more flexible and effective than traditional if-else structures. With Grey, the creator aims to develop a more robust and adaptable artificial intelligence solution that can handle even the most complex problems and produce the most accurate results.
+
+The creator hopes that Grey will be able to learn and grow, much like the human brain, and that it will be able to handle a wide range of tasks and problems. With the switch to Grey, the creator of Arasan AI is positioning the project to be at the forefront of the latest developments in artificial intelligence and machine learning, and to continue to improve and evolve over time.
 # ARASAN-AI
 ![image](https://user-images.githubusercontent.com/86509617/128328203-3d5330c9-3187-47fc-90a6-d1d32501398e.png)
 
